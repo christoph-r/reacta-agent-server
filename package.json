@@ -1,0 +1,13 @@
+{
+    "name": "re-acta_agent-server",
+    "description": "RE-ACTA's Agent Server Facade",
+    "version": "0.1.1",
+    "private": true,
+    "dependencies": {
+	"request": "2.45.x",
+	"node-uuid": "1.4.x",
+	"log4js": "0.6.x",
+        "body-parser": "1.5.x",
+        "express": "4.6.x"
+    }
+}
